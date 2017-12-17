@@ -75,7 +75,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "24px",
+              "font-size": "17px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -117,6 +117,13 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-cristmas-toys-2000x1631.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3-cristmas-toys-2000x1631-800x652.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20161211211129-8260450b-991x1024.jpg",
@@ -193,7 +200,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20161211213332-7d021468-769x1024-769x1024.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
