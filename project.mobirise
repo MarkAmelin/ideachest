@@ -3,11 +3,12 @@
     "name": "Ларец идей",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 18,
+    "uniqCompNum": 23,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
-        "#65442d"
+        "#65442d",
+        "#fcd2c0"
       ]
     },
     "favicon": "",
@@ -79,7 +80,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-l\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -99,6 +100,109 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ЛАРЕЦ ИДЕЙ&nbsp;</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-h"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#fcd2c0",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211211128-f981aab8-1024x966.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211211128-f981aab8-1024x966-800x754.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211211129-8260450b-991x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211211129-8260450b-991x1024-800x826.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211211131-6c73eca0-1024x992.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211211131-6c73eca0-1024x992-800x775.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211211132-184430ad-998x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211211132-184430ad-998x1024-800x820.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213327-af6a4d6d-1024x627.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213327-af6a4d6d-1024x627-800x489.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213327-ca70484f-1024x1161.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213327-ca70484f-1024x1161-800x907.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213328-6c655f63-1024x963.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213328-6c655f63-1024x963-800x752.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213329-70b93a59-1024x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213329-70b93a59-1024x1024-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213330-d38067ef-896x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213330-d38067ef-896x1024-800x914.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213331-7d698e31-1024x978.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213331-7d698e31-1024x978-800x764.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213331-7094680f-1024x824.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213331-7094680f-1024x824-800x643.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20161211213332-7d021468-769x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161211213332-7d021468-769x1024-769x1024.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-l"
         }
       ]
     }
