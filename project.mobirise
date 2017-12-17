@@ -108,7 +108,7 @@
             "paddingBottom": "2",
             "noGutter": false,
             "showText": false,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fcd2c0",
             "images": [
               {
