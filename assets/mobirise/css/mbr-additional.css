@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+#ext_menu-h .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-h.mbr-navbar--stuck .mbr-navbar__section {
+  background: #65442d;
+}
+#ext_menu-h .mbr-navbar__section {
+  background: #65442d;
+}
+#ext_menu-h .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-h .mbr-brand__name a {
+  font-size: 24px;
+  font-family: 'Lora', serif;
+}
