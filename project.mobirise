@@ -2333,6 +2333,90 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170203224947-ac93d7ec-1081x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170203224947-ac93d7ec-1081x1024-800x757.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170203224945-c25e7323-1457x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170203224945-c25e7323-1457x1024-800x562.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170205164044-0a5a24f7-1301x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170205164044-0a5a24f7-1301x1024-800x629.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170205164043-b3a0d023-1250x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170205164043-b3a0d023-1250x1024-800x655.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170205164042-ddafa363-1291x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170205164042-ddafa363-1291x1024-800x634.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170405225637-9650da1c-1024x850.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170405225637-9650da1c-1024x850-800x664.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20170405225638-a6826ee1-1024x907.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170405225638-a6826ee1-1024x907-800x708.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
