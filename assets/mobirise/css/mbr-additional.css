@@ -1916,48 +1916,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-qFzx2fL52U {
-  padding-top: 75px;
-  padding-bottom: 15px;
-  background-color: #fcd2c0;
-}
-.cid-qFzx2fL52U .card-img {
-  background-color: #fff;
-}
-.cid-qFzx2fL52U .card-box {
-  background-color: #fcc2a9;
-  padding: 2rem;
-}
-.cid-qFzx2fL52U h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qFzx2fL52U p {
-  text-align: left;
-}
-.cid-qFzx2fL52U .mbr-text {
-  color: #767676;
-}
-.cid-qFzx2fL52U .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qFzx2fL52U .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qFzx2fL52U .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-qFzx2fL52U .card-title {
-  text-align: center;
-}
 .cid-qFzx2m6Efa .navbar {
   padding: .5rem 0;
   background: #65442d;
@@ -2408,4 +2366,46 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qFBqSeXLrx {
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #fcd2c0;
+}
+.cid-qFBqSeXLrx .card-img {
+  background-color: #fff;
+}
+.cid-qFBqSeXLrx .card-box {
+  background-color: #fcc2a9;
+  padding: 2rem;
+}
+.cid-qFBqSeXLrx h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qFBqSeXLrx p {
+  text-align: left;
+}
+.cid-qFBqSeXLrx .mbr-text {
+  color: #767676;
+}
+.cid-qFBqSeXLrx .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qFBqSeXLrx .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qFBqSeXLrx .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qFBqSeXLrx .card-title {
+  text-align: center;
 }
